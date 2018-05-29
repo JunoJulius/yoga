@@ -11,9 +11,7 @@ let products = [
   { referenceNumber: 1238, name: "Light On Yoga", price: 10 }
 ]
 // Declare `shoppingCart`, something where you will be storing all products that the user buys.
-let shoppingCart = function() {
-
-}
+let shoppingCart = []
 // Declare `products`, the different that you will be selling under each of the departments.
 
 let shopFromStore =  function () {
